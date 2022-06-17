@@ -1,5 +1,5 @@
 {
-  "name": "ajax_app",
+  "name": "ajax-app-38133",
   "private": true,
   "dependencies": {
     "@rails/actioncable": "^6.0.0",
